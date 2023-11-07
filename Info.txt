@@ -1,0 +1,5 @@
+Student_id : 2313110898
+Student Name : Vitawat kongchan
+Major :IT
+Level :1
+Faculty : Information Technology
